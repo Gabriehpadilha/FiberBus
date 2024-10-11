@@ -1,0 +1,65 @@
+[
+  {
+    "codigo": "B001",
+    "setor": "montagem",
+    "treeData": {
+      "name": "B001",
+      "photo": "src/B002.webp",
+      "projeto": "src/B001.jpg",
+      "children": [
+        {
+          "name": "GRADE",
+          "children": [
+            {
+              "name": "Centralizado com a cúpula",
+              "photo": "src/Alt_grad.jpg"
+            },
+            {
+              "name": "Altura da grade até 10mm",
+              "children": [
+                {
+                  "name": "Centralizado com a cúpula",
+                  "photo": "src/Alt_grad.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Código: 0363.0131.001"
+            },
+            {
+              "name": "PONTOS DE FIXAÇÃO COM TRAÇO FORTE"
+            },
+            {
+              "name": "Sem chupeta"
+            }
+          ]
+        },
+        {
+          "name": "PARACHOQUE",
+          "children": [
+            {
+              "name": "Código: 0363.0133.001"
+            },
+            {
+              "name": "Sem degrau na junção com a ponteira"
+            },
+            {
+              "name": "Sem furação de sensor"
+            }
+          ]
+        },
+        {
+          "name": "PONTEIRA",
+          "children": [
+            {
+              "name": "Sem degrau na junção com a ponteira"
+            },
+            {
+              "name": "Sem furação de sensor"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]
